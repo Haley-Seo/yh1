@@ -1,0 +1,36 @@
+body{
+  background : orange;
+}
+
+.price{
+  font-style : bold;
+  margin-left : 370pt;
+  margin-top : 110pt;
+  font-size : 50pt;
+  color : #4D8CF5;
+  -webkit-text-stroke : 1.5px black
+}
+
+.instruction {
+  font-style : italic;
+  margin-left : 480pt;
+}
+.truth {
+  color : blue;
+  font-size : 20pt;
+  margin-left : 480pt;
+}
+
+.line{
+  width: 500px;
+  height: 50px;
+  border-bottom: 5px double blue;
+  border-right: 5px double blue;
+  border-left: 5px double blue;
+  margin-top: -50px;
+  margin-left : 630px;
+}
+
+p {
+  margin-left : 550pt;
+}
